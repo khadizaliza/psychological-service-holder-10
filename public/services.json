@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Stress Management",
+      "price": "$2000",
+      "picture": "https://i.ibb.co/BnQDpzt/photo-2.jpg",
+      "description": "Your health is your most important asset. You should entrust it only to the best professionals."
+    },
+    {
+      "name": "Depression",
+      "price": "$1000",
+      "picture": "https://i.ibb.co/zJRt1kz/photo-3.jpg",
+      "description": "Your health is your most important asset. When you depress you cant's do any work. So you should tritment here."
+    },
+    {
+      "name": "Relationships",
+      "price": "$500",
+      "picture": "https://i.ibb.co/JryJ75k/photo1.jpg",
+      "description": "Broken relationship makes person ill.And Its make one mind stares. So You should entrust it only to the best professionals."
+    }
+  ]

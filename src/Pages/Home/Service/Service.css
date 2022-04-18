@@ -1,0 +1,17 @@
+
+.service{
+  border: 1px solid skyblue;
+  border-radius: 20px; 
+ padding-bottom: 10px;
+ text-align: center;
+}
+.service img{
+    height: 350px;
+    width: 350px;
+}
+
+
+
+
+
+
