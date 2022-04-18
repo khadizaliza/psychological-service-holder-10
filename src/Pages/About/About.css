@@ -1,0 +1,17 @@
+
+.about{
+    background: aliceblue;
+    padding: 20px;
+}
+.about h3{
+    color: blue;
+    padding: 20px;
+    text-align: center;
+}
+.about p{
+    color: rgb(62, 70, 224);
+    padding: 20px;
+    text-align: center;
+}
+
+

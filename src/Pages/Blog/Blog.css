@@ -1,0 +1,15 @@
+
+.blog{
+    background: cornsilk;
+    padding: 20px;
+}
+.blog h3{
+    text-align: center;
+    padding: 20px;
+    color: blue;
+}
+.blog p{
+    text-align: center;
+    padding: 20px;
+    color: navy;
+}
