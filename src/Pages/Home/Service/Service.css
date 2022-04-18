@@ -9,7 +9,13 @@
     height: 350px;
     width: 350px;
 }
-
+.service button{
+    color: aliceblue;
+    padding: 8px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}
 
 
 

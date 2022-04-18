@@ -1,0 +1,11 @@
+.error h2{
+    color: blue;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+.error img{
+    height: 500px;
+    border-radius: 20px;
+    width: 600px;
+}
