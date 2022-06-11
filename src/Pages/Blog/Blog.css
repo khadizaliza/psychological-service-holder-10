@@ -1,6 +1,6 @@
 
 .blog{
-    background: cornsilk;
+    background: rgb(219, 211, 182);
     padding: 20px;
 }
 .blog h3{
@@ -11,5 +11,5 @@
 .blog p{
     text-align: center;
     padding: 20px;
-    color: navy;
+    color: rgb(6, 6, 69);
 }
